@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "GO AHEAD!!",
+  "base_artist": "スフィア",
+  "createdAt": "2025-12-14T07:56:48.209406Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Go Ahead In the Rain",
+      "artist": "A Tribe Called Quest",
+      "has_synced": false,
+      "path": "select/01_Go_Ahead_In_the_Rain_A_Tribe_Called_Quest.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Rock a Little (Go Ahead Lily)",
+      "artist": "Stevie Nicks",
+      "has_synced": true,
+      "path": "select/02_Rock_a_Little_(Go_Ahead_Lily)_Stevie_Nicks.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Go Ahead",
+      "artist": "Rilo Kiley",
+      "has_synced": true,
+      "path": "select/03_Go_Ahead_Rilo_Kiley.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Go Ahead",
+      "artist": "Perfume Genius",
+      "has_synced": false,
+      "path": "select/04_Go_Ahead_Perfume_Genius.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Go Ahead and Take It",
+      "artist": "No Angels",
+      "has_synced": true,
+      "path": "select/05_Go_Ahead_and_Take_It_No_Angels.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Go Ahead",
+      "artist": "Alicia Keys",
+      "has_synced": true,
+      "path": "select/06_Go_Ahead_Alicia_Keys.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Go Ahead",
+      "artist": "Tina Turner",
+      "has_synced": true,
+      "path": "select/07_Go_Ahead_Tina_Turner.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Go Ahead In the Rain",
+      "artist": "A Tribe Called Quest",
+      "has_synced": true,
+      "path": "select/08_Go_Ahead_In_the_Rain_A_Tribe_Called_Quest.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Go Ahead",
+      "artist": "Fireflight",
+      "has_synced": true,
+      "path": "select/09_Go_Ahead_Fireflight.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Go Ahead On",
+      "artist": "Dusty Springfield",
+      "has_synced": true,
+      "path": "select/10_Go_Ahead_On_Dusty_Springfield.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Go Ahead And Cry",
+      "artist": "The Righteous Brothers",
+      "has_synced": true,
+      "path": "select/11_Go_Ahead_And_Cry_The_Righteous_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Go Ahead And Cry",
+      "artist": "The Righteous Brothers",
+      "has_synced": false,
+      "path": "select/12_Go_Ahead_And_Cry_The_Righteous_Brothers.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Go Ahead",
+      "artist": "DJ Khaled",
+      "has_synced": true,
+      "path": "select/13_Go_Ahead_DJ_Khaled.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Go Ahead (Instrumental) [Bonus Track]",
+      "artist": "DJ Khaled",
+      "has_synced": true,
+      "path": "select/14_Go_Ahead_(Instrumental)_[Bonus_Track]_DJ_Khaled.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Go Ahead",
+      "artist": "DJ Khaled feat. Flo Rida, Lloyd, Rick Ross, Fabolous & Fat Joe)",
+      "has_synced": false,
+      "path": "select/15_Go_Ahead_DJ_Khaled_feat._Flo_Rida,_Lloyd,_Rick_Ross,_Fabolous_&_Fat_Joe).txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Go Ahead (feat. Flo Rida, Rick Ross, Fat Joe, Lloyd, Fabolous)",
+      "artist": "DJ Khaled",
+      "has_synced": false,
+      "path": "select/16_Go_Ahead_(feat._Flo_Rida,_Rick_Ross,_Fat_Joe,_Lloyd,_Fabolous)_DJ_Khaled.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "GO AHEAD!!",
+      "artist": "sphere",
+      "has_synced": false,
+      "path": "select/pl_01_GO_AHEAD!!_sphere.txt"
+    }
+  ]
+}
